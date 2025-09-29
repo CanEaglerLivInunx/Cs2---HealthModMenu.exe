@@ -1,0 +1,10 @@
+To make sure my program works please download the following python imports!!!
+
+pip install pymem
+pip3 install pymem
+pip install tkinter
+pip3 install tkinter
+pip install customtkinter
+pip3 install customtkinter
+
+:) 
